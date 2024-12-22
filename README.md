@@ -21,6 +21,6 @@ There is a lot of information on the web about what you need to learn and how to
 1. SQL
 2. Fundamentals of python
 3. Key python libraries
-4. Fundamentals of mathematics (statistics, probability) note: linear algebra, calculus will be covered in fundamentals of Machine Learning Course
+4. Fundamentals of mathematics (statistics, probability) note: linear algebra, calculus will be covered in fundamentals of Machine Learning
 5. DataVisualization (PowerBi and Python Library)
 

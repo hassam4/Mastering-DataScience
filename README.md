@@ -26,5 +26,5 @@ There is a lot of information on the web about what you need to learn and how to
 
 ## SQL
 
-There are many online courses and tutorials on learning SQL (paid and free). But given how basic the syntax for SQL is, the best way to master it is less focus on ___ courses and more on putting to partice what you have learnt. Because while the syntax is contstructing queries is what most people find challenging. Therefore, if you are a complete beginner, I would suggest watching the "SQL for Beginners"[https://www.youtube.com/watch?v=7S_tz1z_5bA&t=290s] video by Programming with Mosh. It does a fantastic job at explaining how many of the key concepts.
+There are many online courses and tutorials on learning SQL (paid and free). But given how basic the syntax for SQL is, the best way to master it is less focus on ___ courses and more on putting to partice what you have learnt. Because while the syntax is contstructing queries is what most people find challenging. Therefore, if you are a complete beginner, I would suggest watching the ["SQL for Beginners"](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=290s) video by Programming with Mosh. It does a fantastic job at explaining how many of the key concepts.
 

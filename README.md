@@ -26,6 +26,15 @@ There is a lot of information on the web about what you need to learn and how to
 
 ## SQL
 
-There are many online courses and tutorials available (both paid and free) for learning SQL. However, given how straightforward SQL syntax can be, the best way to master it is to focus less on theory and more on hands-on practice. If you’re a complete beginner, I recommend watching the ["SQL for Beginners"](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=290s) video by Programming with Mosh. It does a fantastic job of explaining the key concepts.
+There are many online courses and tutorials available (both paid and free) for learning SQL. However, given how straightforward SQL syntax is, the best way to master it is to focus less on theory and more on hands-on practice. If you’re a complete beginner, I recommend watching the ["SQL for Beginners"](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=290s) video by Programming with Mosh. It does a fantastic job of explaining the key concepts.
+
+If you still feel that you haven't got a hold of SQL, I recommend also going through [Learn Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) and [Learn Advanced SQL](https://www.kaggle.com/learn/advanced-sql) by Kaggle.
+
+After this, you'll need to put to practice what you have learnt. I recommed the following SQL exercises.
+1. [Solve SQL by HackerRank](https://www.hackerrank.com/domains/sql)
+2. [SQL Exercises by W3School](https://www.w3schools.com/sql/sql_exercises.asp)
+3. [SQL 50 by LeetCode](https://leetcode.com/studyplan/top-sql-50/)
+
+Remember, your goal is not to rush through the exercise. Take your time. Understand the problem at hand and how to query for it. The temptation of peaking at the solution is great, but don't give in. Practice! Practice! And Practice!
 
 

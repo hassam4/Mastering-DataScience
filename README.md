@@ -31,8 +31,8 @@ There are many online courses and tutorials available (both paid and free) for l
 If you still feel that you haven't got a hold of SQL, I recommend also going through [Learn Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) and [Learn Advanced SQL](https://www.kaggle.com/learn/advanced-sql) by Kaggle.
 
 After this, you'll need to put to practice what you have learnt. I recommed the following SQL exercises.
-1. [Solve SQL by HackerRank](https://www.hackerrank.com/domains/sql)
-2. [SQL Exercises by W3School](https://www.w3schools.com/sql/sql_exercises.asp)
+1. [SQL Exercises by W3School](https://www.w3schools.com/sql/sql_exercises.asp)
+2. [Solve SQL by HackerRank](https://www.hackerrank.com/domains/sql)
 3. [SQL 50 by LeetCode](https://leetcode.com/studyplan/top-sql-50/)
 
 Remember, your goal is not to rush through the exercise. Take your time. Understand the problem at hand and how to query for it. The temptation of peaking at the solution is great, but don't give in. Practice! Practice! And Practice!
